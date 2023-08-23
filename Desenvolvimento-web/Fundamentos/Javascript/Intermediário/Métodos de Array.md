@@ -1,4 +1,4 @@
-[[Javascript]]
+[[Intermediário]]
 ## Includes - verifica se existe algum item no array
 
 ```jsx

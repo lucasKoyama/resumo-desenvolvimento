@@ -1,4 +1,4 @@
-[[Javascript]]
+[[Intermediário]]
 ## Fetch
 
 ```jsx

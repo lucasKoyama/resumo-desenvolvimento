@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da6e606a6256c244",
+        "id": "4bce27d5dba7a99d",
         "type": "tabs",
         "children": [
           {
-            "id": "324808dca9dc4faa",
+            "id": "b9b5d46ed39211c3",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "b674ab041ad0aaf9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f41e7b05fce483fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,10 +138,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "066a36dd64f17b60",
+  "active": "b9b5d46ed39211c3",
   "lastOpenFiles": [
-    "Intermediário",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Básico.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Javascript.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Intermediário.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Métodos de Array.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Assíncronia.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Funções.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Objetos.md",
     "README.md",
@@ -175,7 +158,6 @@
     "resumo-de-desenvolvimento",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Lógicos.md",
     "Desenvolvimento-web/Back-end/Tests-E2E/Tests.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Básico.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Operadores.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Aritméticos.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Variáveis & Tipos.md",
@@ -183,10 +165,8 @@
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Loops.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Arrays.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico",
-    "Desenvolvimento-web/Fundamentos/Javascript/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Condicionais.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores",
-    "Desenvolvimento-web/Fundamentos/Javascript/Javascript.md",
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
     "Desenvolvimento-web/Fundamentos/Git-Github/Git & Github.md",
     "Desenvolvimento-web/Fundamentos/Unix-Shell/Unix & Shell.md",
