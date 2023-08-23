@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "7bc4fd93f38b1010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           }
         ]
@@ -138,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e7999875990a5af",
+  "active": "7bc4fd93f38b1010",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/JavaScript.md",
+    "Desenvolvimento-web/Back-end/TypeScript",
     "Desenvolvimento-web/Back-end/Node.js/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/Express/Middlewares.md",
     "Desenvolvimento-web/Back-end/Node.js/Express/API REST.md",
@@ -151,30 +171,27 @@
     "Untitled 1.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component",
-    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Métodos de Array.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "Desenvolvimento-web/Fundamentos/HTML/Forms.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Assíncronia.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Fluxo de exceções.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Avançado.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Avançado",
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Events & Listeners.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Web Storage.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/DOM.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Básico.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Javascript.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Intermediário.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário",
-    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Funções.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Objetos.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Fluxo de exceções.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Avançado.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Events & Listeners.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Web Storage.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/DOM.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/Básico.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Intermediário.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/JSON.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/Funções.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/Objetos.md",
     "README.md",
     "Desenvolvimento-web/Back-end/Tests-E2E/Mocha-Chai-Sinon.md",
-    "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end/Tests-E2E/Tests.md",
     "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end/Tests-E2E",
     "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end",
     "resumo-de-desenvolvimento/Desenvolvimento-web",
-    "resumo-de-desenvolvimento",
-    "Desenvolvimento-web/Fundamentos/Javascript/Básico"
+    "resumo-de-desenvolvimento"
   ]
 }
