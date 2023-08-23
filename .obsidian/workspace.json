@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4bce27d5dba7a99d",
+        "id": "db9cbc21d44fd001",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b5d46ed39211c3",
+            "id": "9bcb4b302e51f778",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,9 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9b5d46ed39211c3",
+  "active": "9bcb4b302e51f778",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Assíncronia.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Assíncronia.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Fluxo de exceções.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Avançado/Avançado.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Avançado",
     "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Events & Listeners.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Web Storage.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/DOM.md",
@@ -171,8 +174,6 @@
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Condicionais.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores",
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
-    "Desenvolvimento-web/Fundamentos/Git-Github/Git & Github.md",
-    "Desenvolvimento-web/Fundamentos/Unix-Shell/Unix & Shell.md",
     "Desenvolvimento-web/Fundamentos/Unix-Shell",
     "Desenvolvimento-web/Fundamentos/Git-Github"
   ]

@@ -1,4 +1,4 @@
-[[Intermediário]]
+[[Avançado]]
 ## Fetch
 
 ```jsx
