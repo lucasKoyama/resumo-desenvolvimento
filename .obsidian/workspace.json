@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "37bb0948d3dbd7d5",
+        "id": "27660e3fda3e9f3a",
         "type": "tabs",
         "children": [
           {
-            "id": "da5931330c99d171",
+            "id": "d01600a5885c3137",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efa0da7dc53bac89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efa0da7dc53bac89",
+  "active": "d01600a5885c3137",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
@@ -188,7 +168,6 @@
     "Untitled 1.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "Desenvolvimento-web/Fundamentos/HTML/Forms.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado",
