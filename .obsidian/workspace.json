@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "9cd3f7df87ae7d30",
+    "type": "split",
+    "children": [
+      {
+        "id": "da6e606a6256c244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324808dca9dc4faa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "161fc2596daee9b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bab80cce5467b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "066a36dd64f17b60",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57f7a20f0d58c7a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0080580bce39e11c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58a069a0d16a00a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7cdac23b9ba2a05a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b15a687379955f00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c00731314ce3d8f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbeb21fa5c1c2ac9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7311bce86691140",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "324808dca9dc4faa",
+  "lastOpenFiles": [
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Funções.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Objetos.md",
+    "README.md",
+    "Desenvolvimento-web/Back-end/Tests-E2E/Mocha-Chai-Sinon.md",
+    "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end/Tests-E2E/Tests.md",
+    "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end/Tests-E2E",
+    "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end",
+    "resumo-de-desenvolvimento/Desenvolvimento-web",
+    "resumo-de-desenvolvimento",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Lógicos.md",
+    "Desenvolvimento-web/Back-end/Tests-E2E/Tests.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Básico.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Operadores.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Aritméticos.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Variáveis & Tipos.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Template Literals.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Loops.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Arrays.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico",
+    "Desenvolvimento-web/Fundamentos/Javascript/Métodos de Array.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores/Condicionais.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Básico/Operadores",
+    "Desenvolvimento-web/Fundamentos/Javascript/Javascript.md",
+    "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
+    "Desenvolvimento-web/Fundamentos/Git-Github/Git & Github.md",
+    "Desenvolvimento-web/Fundamentos/Unix-Shell/Unix & Shell.md",
+    "Desenvolvimento-web/Fundamentos/Unix-Shell",
+    "Desenvolvimento-web/Fundamentos/Git-Github",
+    "Desenvolvimento-web/Fundamentos/CSS/Responsividade.md"
+  ]
+}
