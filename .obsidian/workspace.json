@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cfbe389b0e59ba5a",
+        "id": "37bb0948d3dbd7d5",
         "type": "tabs",
         "children": [
           {
-            "id": "5e13f0f3432f2975",
+            "id": "da5931330c99d171",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e13f0f3432f2975",
+  "active": "da5931330c99d171",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/Fontsawesome.md",
+    "React.md",
+    "Desenvolvimento-web/Front-end/React/React-Testing-Library-RTL/RTL.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
+    "Desenvolvimento-web/Front-end/React/React.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Fundamentos/Fundamentos.md",
+    "Desenvolvimento-web/Desenvolvimento Web.md",
+    "README.md",
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
+    "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
+    "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Back-end/Node.js/JWT.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/JavaScript.md",
     "Desenvolvimento-web/Back-end/TypeScript",
@@ -160,26 +164,14 @@
     "Desenvolvimento-web/Back-end/Node.js/Express/API REST.md",
     "Desenvolvimento-web/Back-end/Node.js/Express/Express.md",
     "Desenvolvimento-web/Back-end/Node.js/Express",
-    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
     "Untitled 1.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "Desenvolvimento-web/Fundamentos/HTML/Forms.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Fluxo de exceções.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Avançado.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Events & Listeners.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Web Storage.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/DOM.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/Básico.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Intermediário.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/JSON.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Básico/Funções.md",
     "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end/Tests-E2E",
     "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end",
     "resumo-de-desenvolvimento/Desenvolvimento-web",
