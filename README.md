@@ -12,5 +12,7 @@ Rede de resumos interativa do repositório na obsidian
 
 ## Devs
 - [@lucasKoyama](https://github.com/lucasKoyama)
+- [@Paulo-Victor-Belens](https://github.com/Paulo-Victor-Belens)
+- [@mcoutodev](https://github.com/mcoutodev)
 - Venha deixar seu legado!
 
