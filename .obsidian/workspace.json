@@ -11,7 +11,7 @@
             "id": "b9b5d46ed39211c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -140,11 +140,14 @@
   },
   "active": "b9b5d46ed39211c3",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Assíncronia.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Events & Listeners.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Web Storage.md",
+    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/DOM.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Básico.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Javascript.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Intermediário.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Métodos de Array.md",
-    "Desenvolvimento-web/Fundamentos/Javascript/Intermediário/Assíncronia.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/JSON.md",
     "Desenvolvimento-web/Fundamentos/Javascript/Intermediário",
     "Desenvolvimento-web/Fundamentos/Javascript/Básico/Funções.md",
@@ -171,7 +174,6 @@
     "Desenvolvimento-web/Fundamentos/Git-Github/Git & Github.md",
     "Desenvolvimento-web/Fundamentos/Unix-Shell/Unix & Shell.md",
     "Desenvolvimento-web/Fundamentos/Unix-Shell",
-    "Desenvolvimento-web/Fundamentos/Git-Github",
-    "Desenvolvimento-web/Fundamentos/CSS/Responsividade.md"
+    "Desenvolvimento-web/Fundamentos/Git-Github"
   ]
 }
