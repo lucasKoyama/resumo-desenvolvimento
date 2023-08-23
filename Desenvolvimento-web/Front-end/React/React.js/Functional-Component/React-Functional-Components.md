@@ -1,5 +1,7 @@
 [[React.js]]
-## Use Effect
+
+## State
+## Life Cycle - Use Effect
 
 ```jsx
 // Executa a callback sempre que o componente é renderizado (atualização de estado)
