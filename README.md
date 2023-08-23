@@ -1,4 +1,4 @@
-# Resumo de Desenvolvimento
+# Resumo de Desenvolvimento - BETA
 
 ## O que é o "resumo-desenvolvimento"?
 - Um resumão em constante atualização e desenvolvimento de devs para devs. Feito para abrir com a ferramenta [Obsidian](https://obsidian.md/)!
