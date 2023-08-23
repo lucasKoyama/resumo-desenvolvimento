@@ -1,4 +1,4 @@
-[[Banco de Dados]]
+[[Node.js]]
 ORM é utilizar javascript para fazer as queries sem tem que ficar escrevendo queries SQL!
 
 | Migration | Cria as tabelas     |
