@@ -1,18 +1,29 @@
 [[React.js]]
 
-## State
-## Life Cycle - Use Effect
-
+## Hooks
+## State - Use State
 ```jsx
-// Executa a callback sempre que o componente é renderizado (atualização de estado)
-useEffect(() => {}); // componentDidUpdate()
+// "example" é a variável, "setExample" é uma função para atualizar o valor da variável, ambos são providos pelo hook useState
+const [example, setExample] = useState('String inicial do state example');
+```
 
-// Executa callback apenas na primeira renderização do componente. 
-useEffect(() => {}, []); // componentDidMount()
+## Life Cycle - Use Effect
+```jsx
+// Executa a callback sempre que o componente é renderizado
+// (atualização de estado causa renderização).
+// Equivalente ao componentDidUpdate() do react class
+useEffect(() => {});
 
-// Executa callback sempre que qualquer um dos itens do array sofrer alteração. 
+// Executa callback apenas na primeira renderização do componente.
+// Equivalente ao componentDidMount() do react class
+useEffect(() => {}, []); 
+
+// Executa callback sempre que qualquer um dos itens do array sofrer alteração.
 useEffect(() => {}, [foo, bar, ...baz]);
 
 // Executa a callback do retorno no momento da desmontagem do componente
-useEffect(() => { return () => {}; }, []); // componentWillUnmount()
+// Equivalente ao componentWillUnmount() do react class
+useEffect(() => {
+  return () => {};
+}, []); 
 ```

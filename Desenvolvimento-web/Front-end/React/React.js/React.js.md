@@ -1,5 +1,5 @@
 
-## O que é [[React]] JS?
+## O que é React JS?
 
 - **Framework** javascript mais popular para o desenvolvimento web [[Front-end]];
 - Criado pelo **facebook** para otimizar a produtividade;
