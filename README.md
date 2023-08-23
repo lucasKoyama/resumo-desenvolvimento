@@ -16,3 +16,27 @@ Rede de resumos interativa do repositório na obsidian
 - [@mcoutodev](https://github.com/mcoutodev)
 - Venha deixar seu legado!
 
+## Obsidian Markdown:
+|Markdown Element|Syntax|Example|
+|---|---|---|
+|Headings 1-6|#|# My Heading |
+|Bold|**|Chocolate is **so good!**|
+|Italics|*|I read the *NY Times*|
+|Underline|N/A|Only with Plugin|
+|Strikethrough|~~|~~woops~~|
+|Links|[]|**See below for examples**|
+|Embed|!|**See below for examples**|
+|Unordered List|–|– first bullet point|
+|Numbered List|1.|1. Make bread|
+|Tasks|– [ ]|– [x] Go shopping|
+|Table|\||**See below for examples**|
+|Footnotes|^[]|Yaks are found in TIbet^[An other Himalayan regions]|
+|Tags|#|#tagshavenospaces|
+|Code Block|“` or ~~~|` ``` this is a code block `“` ~~~ so is this ~~~|
+|Horizontal rule/ line|—|—|
+|Images|![]()|![Mountains and grass](/images/mountains-grass.jpg)|
+|Highlight|==|Highlight ==this.==|
+
+[source](https://facedragons.com/personal-development/obsidian-markdown-cheatsheet/)
+
+
