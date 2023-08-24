@@ -1,8 +1,9 @@
 [[Node.js]]
 ORM é utilizar javascript para fazer as queries sem tem que ficar escrevendo queries SQL!
 
-| Migration | Cria as tabelas     |
+|           |                     |
 |    ---    |         ---         |
+| Migration | Cria as tabelas     |
 | Seeders   | Alimenta as tabelas |
 | Models    | Faz os CRUDs        |
 

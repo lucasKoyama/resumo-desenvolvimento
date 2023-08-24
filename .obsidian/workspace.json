@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM.md"
               }
             }
           }
@@ -148,17 +148,21 @@
   },
   "active": "d01600a5885c3137",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Web Storage.md",
+    "Desenvolvimento-web/Front-end/Fontsawesome.md",
+    "Desenvolvimento-web/Front-end/Front-end.md",
     "Desenvolvimento-web/Front-end/Vite.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "2023-08-23.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/React-Testing-Library-RTL/RTL.md",
     "React.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Desenvolvimento-web/Front-end/React/React.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Fundamentos/Fundamentos.md",
@@ -166,16 +170,12 @@
     "README.md",
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
-    "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Back-end/Node.js/JWT.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/JavaScript.md",
     "Desenvolvimento-web/Back-end/TypeScript",
     "Desenvolvimento-web/Back-end/Node.js/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/Express/Middlewares.md",
-    "Desenvolvimento-web/Back-end/Node.js/Express/API REST.md",
-    "Desenvolvimento-web/Back-end/Node.js/Express/Express.md",
     "Desenvolvimento-web/Back-end/Node.js/Express",
-    "Untitled 1.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado",

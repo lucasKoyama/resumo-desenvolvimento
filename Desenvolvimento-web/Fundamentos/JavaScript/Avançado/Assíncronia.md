@@ -1,6 +1,5 @@
 [[Avançado]]
 ## Fetch
-
 ```jsx
 fetch("url")
   .then(response => response.json())
@@ -9,9 +8,7 @@ fetch("url")
   console.log(data)
 });
 ```
-
 ## Async & Await
-
 ```jsx
 try {
   const response = await fetch(`url`);

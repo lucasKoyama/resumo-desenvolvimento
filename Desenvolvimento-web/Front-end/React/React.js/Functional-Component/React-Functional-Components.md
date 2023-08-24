@@ -1,9 +1,9 @@
 [[React.js]]
 ## Hooks
-São funções **enganchadas** em um **componente funcional**, para que crie uma função hook ela deve atender aos requisitos:
+São funções **enganchadas** em um **componente funcional**. Para criar uma função hook ela deve atender aos requisitos:
 - **Nomenclatura:** começar com **"use"**;
 - **Não pode ser chamado dentro de um:** **if**, **loop**, **função aninhada**;
-- **Onde podem ser chamado:** **componentes funcionais**, **dentro de outros hooks**.
+- **Somente podem ser chamadas dentro de:** **componentes funcionais**, **outros hooks**.
 ## State - useState
 ```jsx
 // "example" é a variável, "setExample" é uma função para atualizar o valor da variável, ambos são providos pelo hook useState
