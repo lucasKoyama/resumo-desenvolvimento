@@ -1,21 +1,16 @@
 #globalstate 
 [[Front-end]]
+## O que é Redux?
+O Context API é uma forma simples de gerenciar o estado global de uma aplicação [React.js](app://obsidian.md/React.js)
+## Passos
 1. **Instalação de dependências**:
-- [ ]  **redux**
-- [ ]  **redux-thunk**
-- [ ]  **extensão auxiliar** por último
-
-```bash
-npm i --save redux react-redux redux-thunk @redux-devtools/extension
-```
-
-1. Criação  de pastas e arquivos com códigos dentro da pasta `src` de forma organizada hierarquicamente:
-
-<aside>
-💡 **O passo descrito está estruturado como se fosse de fato pastas e arquivos, logo ao clicar na seta você verá o que contém dentro das pastas e dos arquivos!**
-
-</aside>
-
+	- [ ]  **redux**
+	- [ ]  **redux-thunk**
+	- [ ]  **extensão auxiliar** por último
+	```bash
+	npm i --save redux react-redux redux-thunk @redux-devtools/extension
+	```
+## Estrutura das pastas e arquivos
 - Pasta **`src`**:
     - Pasta **`redux`**:
         - Pasta **`actions`**

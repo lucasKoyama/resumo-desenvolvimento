@@ -18,7 +18,7 @@ function Header() {
 
 export default Header;
 ```
-Este componente é filho do [[ThemeProvider.jsx]] sendo assim tem acesso ao seu context ao usar o hook **useContext** guardando o retorno de duas formas:
+Este **componente é filho** do [[ThemeProvider.jsx]] sendo assim tem acesso ao seu context ao usar o hook **useContext** guardando o retorno de duas formas:
 1. **variável**
 ```jsx
 const theme = useContext(ThemeContext);
