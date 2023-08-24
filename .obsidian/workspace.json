@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "9cd3f7df87ae7d30",
+    "id": "91b304e94853a95e",
     "type": "split",
     "children": [
       {
-        "id": "5506b3127770568d",
+        "id": "be5271fa43808546",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b20b82b27b54c6",
+            "id": "647d0571eb22fcc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "161fc2596daee9b3",
+    "id": "6e1ebc859bf405b9",
     "type": "split",
     "children": [
       {
-        "id": "45bab80cce5467b8",
+        "id": "2ae17c0fc6e74692",
         "type": "tabs",
         "children": [
           {
-            "id": "066a36dd64f17b60",
+            "id": "8fc46f3b7bd380fe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "57f7a20f0d58c7a6",
+            "id": "b73f81bffcbc8ad9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "0080580bce39e11c",
+            "id": "e0dfe87b8a89befe",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "58a069a0d16a00a5",
+    "id": "97cc36a8f82c7073",
     "type": "split",
     "children": [
       {
-        "id": "7cdac23b9ba2a05a",
+        "id": "a273f20311c5ac59",
         "type": "tabs",
         "children": [
           {
-            "id": "b15a687379955f00",
+            "id": "545a6c060ec783e9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "1c00731314ce3d8f",
+            "id": "65e0f1261ffd5738",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dbeb21fa5c1c2ac9",
+            "id": "fb8f9e56095eeca1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "b7311bce86691140",
+            "id": "94839f5cb94a0fc4",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,43 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6b20b82b27b54c6",
+  "active": "647d0571eb22fcc0",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
+    "conflict-files-obsidian-git.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.jsx.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components",
-    "Desenvolvimento-web/Front-end/Vite.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
-    "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
-    "array.md",
-    "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
-    "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
-    "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
-    "Desenvolvimento-web/Back-end/Banco-de-dados/MySQL.md",
-    "Desenvolvimento-web/Back-end/Arquitetura-em-camadas/Arquitetura em camadas.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API",
-    "Desenvolvimento-web/Back-end/Node.js/ORM.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Web Storage.md",
-    "Desenvolvimento-web/Front-end/Fontsawesome.md",
-    "Desenvolvimento-web/Front-end/Front-end.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
-    "2023-08-23.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React-Testing-Library-RTL/RTL.md",
-    "Desenvolvimento-web/Back-end/TypeScript",
-    "Desenvolvimento-web/Back-end/Node.js/Express",
-    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
-    "Desenvolvimento-web/Front-end/React/React.js/Class-Component",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado"
+    "README.md",
+    "obsidian git configs.png",
+    "Pasted image 20230824133048.png"
   ]
 }
