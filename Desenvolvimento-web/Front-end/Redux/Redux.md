@@ -57,7 +57,7 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
                 export {submitExample1 , submitExample2 };
                 ```
                 
-        - reducers
+        - **reducers**
             - exampleReducer.js
                 
                 ```jsx
