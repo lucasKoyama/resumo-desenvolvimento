@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,11 +148,11 @@
   },
   "active": "36831da0a489e482",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+    "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
-    "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Front-end/Vite.md"
   ]
 }

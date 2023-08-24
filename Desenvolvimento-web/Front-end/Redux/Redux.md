@@ -11,10 +11,10 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
 	npm i --save redux react-redux redux-thunk @redux-devtools/extension
 	```
 ## Estrutura das pastas e arquivos
-- Pasta **`src`**:
-    - Pasta **`redux`**:
-        - Pasta **`actions`**
-            - Arquivo ******`actionTypes.js`******
+-  **src**
+    - **redux**:
+        - **actions**
+            -  actionTypes.js
                 
                 ```jsx
                 // Centraliza todas as actions em um lugar só para melhor organização
@@ -25,7 +25,7 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
                 export { EXAMPLE_ACTION_1, EXAMPLE_ACTION_FETCH, ACTION_SAVE_DATA_FETCH };
                 ```
                 
-            - Arquivo **************`**index.js**`**************
+            - index.js
                 
                 ```jsx
                 /* Importa as actions e define o type para que o reducer
@@ -57,8 +57,8 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
                 export {submitExample1 , submitExample2 };
                 ```
                 
-        - Pasta **`reducers`**
-            - Arquivo **`exampleReducer.js`**
+        - reducers
+            - exampleReducer.js
                 
                 ```jsx
                 const INITIAL_STATE = {
@@ -80,7 +80,7 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
                 export default ****************exampleReducer****************;
                 ```
                 
-            - Arquivo **************`**index.js**`**************
+            - index.js
                 
                 ```jsx
                 import { combineReducers } from "redux";
@@ -93,7 +93,7 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
                 export default rootReducer;
                 ```
                 
-        - Arquivo **`store.js`**
+        - store.js
             
             ```jsx
             // COM O THUNK
@@ -112,7 +112,7 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
             export default store;
             ```
             
-    - Arquivo **************`**index.js**`**************
+    - index.js
         
         ```jsx
         import React from 'react';
