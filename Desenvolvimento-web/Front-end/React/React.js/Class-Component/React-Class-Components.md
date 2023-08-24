@@ -3,4 +3,5 @@
 ## State
 
 ## Life Cycle
+efeitos colaterais
 
