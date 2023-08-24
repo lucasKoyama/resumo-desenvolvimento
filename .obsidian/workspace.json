@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md",
-                "mode": "source",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md"
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React.js.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "066a36dd64f17b60",
+  "active": "fe30e6c7ac8f0ba6",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
@@ -171,7 +172,6 @@
     "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário/Web Storage.md",
     "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Front-end/Front-end.md",
-    "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
     "2023-08-23.md",
