@@ -4,5 +4,5 @@ Para iniciar um projeto em vite utilizando o template do [[React.js]]:
 3. instale globalmente o vite `npm install -g create-vite`
 4. Crie o projeto `npx create-vite@latest nome-do-projeto --template react`
 5. vá até a pasta do projeto `cd nome-do-projeto`
-6. instale as dependencias `npm i`
+6. instale as dependencias `npm install`
 7. rode o projeto `npm run dev`
