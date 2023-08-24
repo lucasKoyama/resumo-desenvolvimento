@@ -1,5 +1,9 @@
 #globalstate
 [[React.js]]
+- src
+	- context
+		- [[ThemeContext.js]]
+		- [[ThemeProvider.js]]
 
 2. Crie o `**Provider**`, exemplo com fetch de preferência dentro da pasta context
 
