@@ -11,11 +11,28 @@
             "id": "d01600a5885c3137",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91e7af91091c330a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/Vite.md"
+              }
             }
           }
         ]
@@ -138,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d01600a5885c3137",
+  "active": "066a36dd64f17b60",
   "lastOpenFiles": [
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+    "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/Hooks.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "2023-08-23.md",
@@ -169,7 +191,6 @@
     "Untitled 1.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component",
-    "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado",
     "Desenvolvimento-web/Fundamentos/JavaScript/Intermediário",
     "resumo-de-desenvolvimento/Desenvolvimento-web/Back-end/Tests-E2E",
