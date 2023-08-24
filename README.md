@@ -14,6 +14,7 @@ Rede de resumos interativa do repositório na obsidian
 - [@lucasKoyama](https://github.com/lucasKoyama)
 - [@Paulo-Victor-Belens](https://github.com/Paulo-Victor-Belens)
 - [@mcoutodev](https://github.com/mcoutodev)
+- [@ribeiro-henrique](https://github.com/ribeiro-henrique)
 - Venha deixar seu legado!
 
 ## Obsidian Markdown:
