@@ -30,6 +30,55 @@ useEffect(() => {
 }, []); 
 ```
 ## Timer como exemplo de um componente funcional react
+```jsx
+// Timer.jsx
+import { useState, useEffect } from 'react';
+import PropTypes from 'prop-types';
 
+const Timer = ({ initialTime }) => {
+	// variável "time" iniciada com o valor da prop "initialTime"
+	// função "setTime" atualiza o valor da variável
+	const [time, setTime] = useState(initialTime);
 
+	// useEffect com a variável "time" dentro do array, toda vez que a variável
+	// atualiza a callback será executada
+	useEffect(() => {
+		if (time > 0) {
+			const timer = setInterval(() => {
+				setTime(prevTime => prevTime - 1);
+			}, 1000);
+			return () => clearInterval(timer);
+		}
+	}, [time]);
+	
+	return (
+		<div>
+			<h1>Countdown Timer</h1>
+			<div>Time remaining: {time} seconds</div>
+		</div>
+	);
+};
+
+// definindo que o tipo da prop "initialTime" será um número
+Timer.propTypes = ({
+	initialTime: PropTypes.number,
+}).isRequired;
+
+export default Timer;
+```
+Usando o Timer no App
+```jsx
+//App.jsx
+import Timer from './Timer'
+
+function App() {
+	return (
+		<>
+			<Timer initialTime={60} />
+		</>
+	)
+}
+
+export default App
+```
 
