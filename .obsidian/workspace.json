@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md"
+                "file": "Desenvolvimento-web/Front-end/Vite.md"
               }
             }
           }
@@ -138,16 +138,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "fe30e6c7ac8f0ba6",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
@@ -159,7 +160,6 @@
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MySQL.md",
     "Desenvolvimento-web/Back-end/Arquitetura-em-camadas/Arquitetura em camadas.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext",
