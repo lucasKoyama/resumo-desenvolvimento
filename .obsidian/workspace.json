@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "91dadbcd47a48560",
+        "id": "5506b3127770568d",
         "type": "tabs",
         "children": [
           {
-            "id": "d142519eb04a20e8",
+            "id": "c6b20b82b27b54c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d142519eb04a20e8",
+  "active": "c6b20b82b27b54c6",
   "lastOpenFiles": [
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.jsx.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components",
     "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
