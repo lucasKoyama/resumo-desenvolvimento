@@ -146,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe30e6c7ac8f0ba6",
+  "active": "066a36dd64f17b60",
   "lastOpenFiles": [
     "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "array.md",
@@ -159,9 +161,7 @@
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MySQL.md",
     "Desenvolvimento-web/Back-end/Arquitetura-em-camadas/Arquitetura em camadas.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.js",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src",
     "Desenvolvimento-web/Front-end/React/React.js/Context API",
@@ -177,7 +177,6 @@
     "Desenvolvimento-web/Front-end/React/React.js/React-Testing-Library-RTL/RTL.md",
     "React.md",
     "Desenvolvimento-web/Front-end/React/React.md",
-    "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Back-end/TypeScript",
     "Desenvolvimento-web/Back-end/Node.js/Express",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component",
