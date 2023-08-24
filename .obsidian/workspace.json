@@ -11,11 +11,14 @@
             "id": "36831da0a489e482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
-                "mode": "preview",
-                "source": false
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 334.8,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md"
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
               }
             }
           }
@@ -148,8 +151,11 @@
   },
   "active": "36831da0a489e482",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+    "README.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
