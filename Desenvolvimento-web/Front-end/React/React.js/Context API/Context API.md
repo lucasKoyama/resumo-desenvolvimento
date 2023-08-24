@@ -1,15 +1,5 @@
 #globalstate
 [[React.js]]
-1. Crie o **Context** de preferência dentro de uma pasta context
-
-```jsx
-import React from 'react';
-
-// Criando um contexto
-const ExampleContext = React.createContext('example');
-
-export default ExampleContext;
-```
 
 2. Crie o `**Provider**`, exemplo com fetch de preferência dentro da pasta context
 
