@@ -1,9 +1,7 @@
-
 ```jsx
 import React, { createContext } from 'react';
 
-// Criando um contexto
-const ExampleContext = createContext();
+const ThemeContext = createContext();
 
-export default ExampleContext;
+export default ThemeContext;
 ```
