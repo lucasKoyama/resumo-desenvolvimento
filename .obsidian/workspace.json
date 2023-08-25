@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md"
               }
             }
           }
@@ -148,10 +148,26 @@
   },
   "active": "36831da0a489e482",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
-    "README.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/store.js",
+    "Desenvolvimento-web/Front-end/Redux/src/store.js",
+    "Desenvolvimento-web/Front-end/Redux/src/reducers/wallet.js",
+    "README.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
