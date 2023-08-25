@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c84fea334081a56",
+        "id": "282810a7941be923",
         "type": "tabs",
         "children": [
           {
-            "id": "6b8f2e5c897ee743",
+            "id": "a350ce2dff413a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
-                "mode": "source",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md"
               }
             }
           }
@@ -147,14 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b8f2e5c897ee743",
+  "active": "a350ce2dff413a1f",
   "lastOpenFiles": [
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth",
