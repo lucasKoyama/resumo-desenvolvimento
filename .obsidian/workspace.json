@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
-                "mode": "preview",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "6b8f2e5c897ee743",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
