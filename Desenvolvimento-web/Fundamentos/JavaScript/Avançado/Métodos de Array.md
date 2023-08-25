@@ -21,7 +21,16 @@ array.shift();
 ## Higher Order Functions - HOFs
 
 ### forEach
+**Para cada item do array executa uma callback** realizando algo e retorna **undefined**
+```js
+array.forEach((item) => console.log(item));
+```
 ### map
+Para cada item do array executa uma callback realizando algo e retorna um novo array
+```js
+const arr = [1, 2, 3]; 
+const novoArr = arr.map((item) => item + 1); // novoArr = [2, 3, 4]
+```
 ### reduce
 - **acumulador / acc**: Variável que irá guardar informações entre todas as iterações.
 - **itemAtual / curr**: a cada iteração o itemAtual passa a ser um item do array equivalente ao seu indice
