@@ -118,6 +118,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "d13ded9d49da80b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md"
+              }
+            }
           }
         ],
         "currentTab": 2

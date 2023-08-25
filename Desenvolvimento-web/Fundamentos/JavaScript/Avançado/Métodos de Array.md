@@ -54,6 +54,7 @@ const arr = [
 arr.find((item) => item.skill === 'Javascript');
 ```
 ### some
+Verifica se no array existe algum item que satisfaça a condição da callback, retorna um boolean
 ### filter
 **Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
 ```js
