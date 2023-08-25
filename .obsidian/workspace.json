@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "c630ce709e866fc9",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM",
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
@@ -174,7 +176,6 @@
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js",
     "README.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",

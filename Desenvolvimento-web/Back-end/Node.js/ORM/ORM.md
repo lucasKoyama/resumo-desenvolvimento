@@ -23,3 +23,6 @@ npm i eslint@6.8.0 eslint-config-airbnb-base@14.2.0 eslint-plugin-import@2.22.1 
 }
 
 ```
+1. criar model
+2. criar migration
+3. 
