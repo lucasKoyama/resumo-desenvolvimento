@@ -1,12 +1,19 @@
 [[Avançado]]
 ## Fetch
 ```jsx
-fetch("url")
-  .then(response => response.json())
+fetch(apiUrl)
+  .then(response => {
+    // Parseia a resposta como JSON e a retorna
+    return response.json();
+  })
   .then(data => {
-  // Aqui vai alguma lógica que usa a resposta da API, a "data"
-  console.log(data)
-});
+    // Aqui você pode manipular os dados recebidos da API
+    console.log('Dados da API:', data);
+  })
+  .catch(error => {
+    // Lidando com erros, se ocorrerem
+    console.error('Erro:', error);
+  });
 ```
 ## Async & Await
 ```jsx
