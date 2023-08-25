@@ -1,4 +1,5 @@
 ```js
+/* Importa as actions e define o type para que o reducer saiba o que fazer com o state */
 import {
   SUBMIT_USER_LOGIN_DATA,
   GET_CURRENCIES,

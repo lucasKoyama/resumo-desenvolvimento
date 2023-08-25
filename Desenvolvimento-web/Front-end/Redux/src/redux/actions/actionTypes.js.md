@@ -1,4 +1,5 @@
 ```js
+// Centraliza todas as actions em um lugar só para melhor organização
 const SUBMIT_USER_LOGIN_DATA = 'SUBMIT_USER_LOGIN_DATA';
 const GET_CURRENCIES = 'GET_CURRENCIES';
 const ADD_EXPENSE = 'ADD_EXPENSE';

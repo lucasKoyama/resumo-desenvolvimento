@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md"
+                "file": "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "36831da0a489e482",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js.md",
-    "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/Redux/src/index.js.md.md",
+    "Desenvolvimento-web/Front-end/Redux/src/index.js",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js",
@@ -164,7 +166,6 @@
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions",
     "Desenvolvimento-web/Front-end/Redux/src/redux/store.js",
     "Desenvolvimento-web/Front-end/Redux/src/store.js",
-    "Desenvolvimento-web/Front-end/Redux/src/reducers/wallet.js",
     "README.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
