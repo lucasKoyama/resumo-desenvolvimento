@@ -54,8 +54,11 @@ const objetoUsuario = {
 	- **controllers**
 		- employee.controller.js
 	- **migrations**
-		- 
+		- timeStamp.users
 	- **models**
+		- user.model
 	- **seeders**
+		- timeStamps.users
 	- **services**
+		- employee.service.js
 	- .sequelizerc
