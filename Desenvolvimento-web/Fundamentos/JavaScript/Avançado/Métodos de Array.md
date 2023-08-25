@@ -66,7 +66,6 @@ const temCarne = carnes.some((carne) => pizza.includes(carne)); // true
 Verifica se **todos os itens do array satisfaz a condição da callback**, retorna um boolean
 ```js
 const carnes = ['frango', 'bacon', 'carne', 'calabresa'];
-
 const pizzas = [
 	"Pizza de bacon",
 	"Pizza de palmito",
@@ -75,13 +74,14 @@ const pizzas = [
 	"Pizza de frango com catupiry"
 ];
 
-pizzas.every((pizza) => carnes.some((carne) => pizza.includes(carne));
+const sohTemCarne = pizzas.every((pizza) => {
+	return carnes.some((carne) => pizza.includes(carne))
+}); // sohTemCarne = false
 ```
 ### filter
 **Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
 ```js
 const carnes = ['frango', 'bacon', 'carne', 'calabresa'];
-
 const pizzas = [
 	"Pizza de bacon",
 	"Pizza de palmito",
@@ -98,3 +98,13 @@ console.log(pizzasVegetarianas);
 // pizzasVegetarianas = ['Pizza de palmito', 'Pizza de quatro queijos']
 ```
 ### sort
+```js
+const pizzas = [
+	"Pizza de bacon",
+	"Pizza de palmito",
+	"Pizza de calabresa",
+	"Pizza de quatro queijos",
+	"Pizza de frango com catupiry"
+];
+const
+```
