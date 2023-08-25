@@ -13,7 +13,12 @@ const objetoUsuario = {
 |---|---|
 |user@gmail.com|senha|
 
-#### Os pilares do ORM
+#### Sequelize umas das libs mais conhecidas de ORM
+|    Nome   |    O que faz?       |
+|    ---    |         ---         |
+| Migration | Cria as tabelas     |
+| Seeders   | Alimenta as tabelas |
+| Models    | Faz os CRUDs        |
 
 ## Passos
 ## Estrutura das pastas e arquivos
