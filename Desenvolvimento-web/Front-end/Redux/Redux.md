@@ -20,6 +20,7 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
 	 2. Crie o arquivo [[Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js|index.js]] para compilar todos os reducers na variável **rootReducer**
  5. Crie o arquivo [[store.js]] para criar a **variável de acesso ao estado global do redux e suas ferramentas de desenvolvimento**
  6. Modifique o [[Desenvolvimento-web/Front-end/Redux/src/index.js|index.js]] para **prover** a aplicação com a **store contendo o estado global**
+ 7. Para todos os componentes que for usar algum estado ele deve se conectar ao mesmo
 ## Estrutura das pastas e arquivos
 -  **src**
     - **redux**:
