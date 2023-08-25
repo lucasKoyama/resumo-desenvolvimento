@@ -106,5 +106,5 @@ const pizzas = [
 	"Pizza de quatro queijos",
 	"Pizza de frango com catupiry"
 ];
-const
+const pizzasOrdemAlfabetica = pizzas.sort((p1, p2) => p2 - p1);
 ```
