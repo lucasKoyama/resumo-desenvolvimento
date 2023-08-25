@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87adca5fd7b3b5ff",
+        "id": "091166ef811b841c",
         "type": "tabs",
         "children": [
           {
-            "id": "c630ce709e866fc9",
+            "id": "6e46eba98df7641b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,15 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c630ce709e866fc9",
+  "active": "6e46eba98df7641b",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Back-end/Node.js/ORM/Untitled.canvas",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+    "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM",
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
-    "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
     "Desenvolvimento-web/Front-end/Redux/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
