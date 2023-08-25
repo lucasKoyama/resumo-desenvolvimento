@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ebdc5cb4166b31a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f721d68b78d48a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md"
+                "file": "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md"
               }
             }
           }
@@ -146,9 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cc9e6596d253f34",
+  "active": "4f721d68b78d48a0",
   "lastOpenFiles": [
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/Redux/src/components/Header.jsx.md",
+    "Desenvolvimento-web/Front-end/Redux/src/pages",
+    "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
+    "Desenvolvimento-web/Front-end/Redux/src/components",
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
@@ -165,8 +194,6 @@
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/store.js",
-    "Desenvolvimento-web/Front-end/Redux/src/store.js",
     "README.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",

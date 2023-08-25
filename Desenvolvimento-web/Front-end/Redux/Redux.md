@@ -23,6 +23,10 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
  7. Para todos os componentes que for usar algum estado ele deve se conectar ao mesmo
 ## Estrutura das pastas e arquivos
 -  **src**
+    - **components**
+	    - [[Desenvolvimento-web/Front-end/Redux/src/components/Header.jsx|Header.jsx]]
+    - **pages**
+	    - [[Login.jsx]]
     - **redux**:
         - **actions**
             -  [[actionTypes.js]]
