@@ -45,4 +45,5 @@ const objetoUsuario = {
 16. Crie as seeders. Exemplo de seeders para a tabela users [[Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users|timeStamp.users]]
 	e depois rode elas `env $(cat .env) npx sequelize db:seed:all`
 17. Crie as funções da camada service utilizando as funções padrões do sequelize para se comunicar com as models. Exemplo de service dos users
+18. Crie as funções da camada controller. Exemplo de controller dos users
 ## Estrutura das pastas e arquivos
