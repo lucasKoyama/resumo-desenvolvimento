@@ -13,8 +13,10 @@ class Login extends React.Component {
   handleChange = ({ target }) => this.setState({ [target.name]: target.value });
 
   handleLogin = () => {
+	// dispatch e history passados por meio do connect sendo pego via props
     const { dispatch, history } = this.props;
     const { email } = this.state;
+    // despachando os dados de login com a função criada nas actions
     dispatch(userLoginData(email));
     history.push('/carteira');
   };
@@ -68,5 +70,6 @@ Login.propTypes = {
   dispatch: PropTypes.func,
 }.isRequired;
 
+/* conectando o redux ao componente para que ele tenha acesso as funções de dispatch e history do redux */
 export default connect()(Login);
 ```

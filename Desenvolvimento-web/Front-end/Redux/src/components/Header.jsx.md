@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 
 class Header extends React.Component {
   render() {
+	// email provido ao mapear o estado global para as props
     const { email } = this.props;
     return (
       <header className="header">
@@ -16,6 +17,7 @@ class Header extends React.Component {
   }
 }
 
+// mapeando o estado global e passando para as props do componente o email
 const mapStateToProps = (state) => ({
   email: state.user.email,
 });
@@ -24,5 +26,6 @@ Header.propTypes = {
   email: PropTypes.string,
 }.isRequired;
 
+/** conectando o redux ao componente com a função que mapea o estado global para as props */
 export default connect(mapStateToProps)(Header);
 ```
