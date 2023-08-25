@@ -9,7 +9,12 @@ O Context API é uma forma simples de gerenciar o estado global de uma aplicaç�
 	- [ ]  **extensão auxiliar** por último
 	```bash
 	npm i --save redux react-redux redux-thunk @redux-devtools/extension
-	```
+	 ```
+ 2. Criar a pasta **redux**
+ 3. Criar a pasta **actions** dentro de redux
+	 1. Criar o arquivo [[actionTypes.js]] que irá conter todos os tipos de ações do seu redux
+	 2. Criar o arquivo [[Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js|index.js]] e as **funções** para cada tipo de ação
+ 4. Criar a pasta **reducers** dentro de redux
 ## Estrutura das pastas e arquivos
 -  **src**
     - **redux**:

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
-                "mode": "preview",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Redux/Redux.md"
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "7ce45668cc2da873",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js.md",
+    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/Redux/src/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/index.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js",
