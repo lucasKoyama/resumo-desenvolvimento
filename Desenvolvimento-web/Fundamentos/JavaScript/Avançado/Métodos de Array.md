@@ -41,5 +41,6 @@ A cada iteração a callback do reduce é executada realizando alguma operação
 array.reduce((acumulador, itemAtual) => acumulador + itemAtual, valorInicial);
 ```
 ### find
+Percorre cada item do array procurando por algum que satisfaça a uma condição e o retorna quando encontrado
 ### filter
 ### sort
