@@ -49,7 +49,7 @@ array.reduce((acumulador, itemAtual) => acumulador + itemAtual, valorInicial);
 const arr = [
 	{ skill: 'HTML', subTopics: ['Semantico', 'Forms'] },
 	{ skill: 'CSS', subTopics: ['Flexbox', 'Responsividade'] },
-	{ skill: 'Javascript' subTopics: ['Arrays', 'Hofs'] }
+	{ skill: 'Javascript', subTopics: ['Arrays', 'Hofs'] }
 ];
 arr.find((item) => item.skill === 'Javascript');
 ```
