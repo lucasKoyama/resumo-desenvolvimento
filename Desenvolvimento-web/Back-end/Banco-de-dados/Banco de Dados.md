@@ -9,4 +9,4 @@ Por exemplo uma tabela **users** tem um **relacionamento** com uma tabela **post
 #### Banco de dados não relacional || NoSQL
 Bancos **não relacionais não utilizam a estrutura de tabelas e esquemas fixos**. É mais flexível e escalável, sendo ideal para lidar com grandes volumes de dados não estruturados
 
-![[Pasted image 20230825110454.png]]
+![[SQL & NoSQL.png]]
