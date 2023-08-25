@@ -2,8 +2,7 @@
 ## Includes - verifica se existe um item específico no array
 ```jsx
 // Verifica se no array contém algum item e retorna um boolean.
-const arr = [1, 2, 3];
-arr.includes(1);
+array.includes(item);
 ```
 ## Formas de remover item do array
 ```jsx
@@ -21,8 +20,11 @@ array.shift();
 ```
 ## Higher Order Functions - HOFs
 ### Reduce
+- **acumulador / acc**: Variável que irá guardar informações entre todas as iterações.
+- **itemAtual / curr**: a cada iteração o itemAtual passa a ser um item do array equivalente ao seu indice
+- **valorInicial**: é o valor que o acumulador irá começar, serve para definir se o acumulador será um número, arrray, objeto, etc
+
+A cada iteração a callback do reduce é executada realizando alguma operação envolvendo o item atual da iteração e o acumulador.
 ```jsx
-/* A variável acumulador é criada para guardar informações de cada iteração que vem da  variável iteraçãoAtual, e a variável valorInicial é criada para definir o valor inicial do acumulador. */
-// acc=valorInicial => acc + iteração1 => acc + iteração2 => ... => acc + iteraçãoFinal
-array.reduce((acumulador, iteraçãoAtual) => acumulador + iteraçãoAtual, valorInicial);
+array.reduce((acumulador, itemAtual) => acumulador + itemAtual, valorInicial);
 ```
