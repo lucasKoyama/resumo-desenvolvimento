@@ -1,5 +1,5 @@
 [[Avançado]]
-## Includes - verifica se existe algum item no array
+## Includes - verifica se existe um item específico no array
 ```jsx
 // Verifica se no array contém algum item e retorna um boolean.
 array.includes(item);
