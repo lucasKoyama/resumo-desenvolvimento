@@ -56,6 +56,16 @@ arr.find((item) => item.skill === 'Javascript');
 ### filter
 **Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
 ```js
-const cardapio = ['']
+const carnes = ['frango', 'bacon', 'carne', 'calabresa']
+
+const pizzas = [
+	"Pizza de bacon",
+	"Pizza de palmito",
+	"Pizza de calabresa",
+	"Pizza de quatro queijos",
+	"Pizza de frango com catupiry"
+];
+
+const vegetariano = pizzas.filter((pizza) => carnes.some((carne) => pizza.includes(carne)))
 ```
 ### sort
