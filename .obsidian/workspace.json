@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "0e1ed25271c03722",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
@@ -160,7 +161,6 @@
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config/config.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",

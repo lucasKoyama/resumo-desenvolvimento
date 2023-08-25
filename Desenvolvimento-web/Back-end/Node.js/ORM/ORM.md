@@ -39,6 +39,7 @@ const objetoUsuario = {
 	`docker container run --name container-mysql -e MYSQL_ROOT_PASSWORD=senha_mysql -d -p 3306:3306 mysql:8.0.29`
 13. Crie o banco `env $(cat .env) npx sequelize db:create`
 14. Crie os modelos das entidades do seu banco. Exemplo de model [[user.model]]
+	*Contém também outros exemplos de models com **relacionamentos 1:1, 1:N e N:N!***
 15. Crie as migrations. Exemplo de migration da tabela users [[Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users|timeStamp.users]]
 	e depois rode elas `npx sequelize db:migrate`
 16. Crie as seeders. Exemplo de seeders para a tabela users [[Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users|timeStamp.users]]
