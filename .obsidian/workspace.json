@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -147,11 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e41e9d6eca6d6df8",
+  "active": "bc84e6cc9721a7e8",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Back-end/Node.js/ORM/user.model.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/config.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/sequelizerc.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
     "Banco de dados relacionais.md",
     "Pasted image 20230825110454.png.md",
@@ -187,7 +188,6 @@
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers",
     "README.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md"
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
