@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "091166ef811b841c",
+        "id": "1e29f13838660239",
         "type": "tabs",
         "children": [
           {
-            "id": "6e46eba98df7641b",
+            "id": "eaa0e864fa1603ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Pasted image 20230825110454.png.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Pasted image 20230825110454.png.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Pasted image 20230825110454.png.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md"
+                "file": "Pasted image 20230825110454.png.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e46eba98df7641b",
+  "active": "eaa0e864fa1603ab",
   "lastOpenFiles": [
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
+    "Pasted image 20230825110454.png.md",
+    "Desenvolvimento-web/Back-end/Banco-de-dados/SQL & NoSQL.png",
     "Pasted image 20230825110454.png",
-    "Pasted image 20230825110442.png",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+    "bancos de dados relacionais.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/Untitled.canvas",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",

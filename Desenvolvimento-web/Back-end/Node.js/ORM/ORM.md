@@ -1,6 +1,6 @@
 [[Node.js]]
 ## O que é ORM?
-ORM (Mapeamento Objeto-Relacional) signica mapear objetos os relacionando com tabelas nos bancos de dados relacionais. Em outras palavras é usar linguagem de programação para transformar objetos em linhas em uma tabela de um banco de dados relacional 
+ORM (Mapeamento Objeto-Relacional) signica mapear objetos os relacionando com tabelas nos [[bancos de dados relacionais]]. Em outras palavras é usar linguagem de programação para fazer operações de CRUD em um banco de dados, transformando objetos em tabelas, objetos em linhas de uma tabela, etc.
 ```js
 /* Modelo de um "objeto" que simboliza um usuário, em que as chaves (email e password) são os cabeçalhos de uma tabela de usuários, enquanto que os valores (user@gmail.com e senha) são os dados da tabela */
 const objetoUsuario = {
