@@ -19,7 +19,10 @@ array.pop();
 array.shift();
 ```
 ## Higher Order Functions - HOFs
-### Reduce
+
+### forEach
+### map
+### reduce
 - **acumulador / acc**: Variável que irá guardar informações entre todas as iterações.
 - **itemAtual / curr**: a cada iteração o itemAtual passa a ser um item do array equivalente ao seu indice
 - **valorInicial**: é o valor que o acumulador irá começar, serve para definir se o acumulador será um número, arrray, objeto, etc
@@ -28,3 +31,6 @@ A cada iteração a callback do reduce é executada realizando alguma operação
 ```jsx
 array.reduce((acumulador, itemAtual) => acumulador + itemAtual, valorInicial);
 ```
+### find
+### filter
+### sort
