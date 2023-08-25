@@ -106,5 +106,6 @@ const pizzas = [
 	"Pizza de quatro queijos",
 	"Pizza de frango com catupiry"
 ];
-const pizzasOrdemAlfabetica = pizzas.sort((p1, p2) => p2 - p1);
+const pizzasOrdemAlfabetica = pizzas.sort((p1, p2) => p1 < p2 ? -1 : 1);
+// pizzasOrdemAlfabetica = ['Pizza de bacon', 'Pizza de calabresa', 'Pizza de frango com catupiry', 'Pizza de palmito', 'Pizza de quatro queijos'];
 ```
