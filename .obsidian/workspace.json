@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "timeStamp.users.md",
-                "mode": "preview",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/timeStamp.users 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/timeStamp.users 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/timeStamp.users 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "timeStamp.users.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/timeStamp.users 1.md"
               }
             }
           }
@@ -147,11 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e41e9d6eca6d6df8",
+  "active": "bc84e6cc9721a7e8",
   "lastOpenFiles": [
+    "seeders",
+    "migrations",
+    "models",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/timeStamp.users.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/timeStamp.users 1.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/user.model.md",
-    "timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/config.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
@@ -181,13 +185,9 @@
     "Desenvolvimento-web/Front-end/Redux/src/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/actions/actionTypes.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/index.js",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/wallet.js",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/index.js",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }

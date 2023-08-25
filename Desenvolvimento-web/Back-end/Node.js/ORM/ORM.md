@@ -40,4 +40,6 @@ const objetoUsuario = {
 13. Crie o banco `env $(cat .env) npx sequelize db:create`
 14. Crie os modelos das entidades do seu banco. Exemplo de model [[user.model]]
 15. Crie as migrations. Exemplo de migration da tabela users [[timeStamp.users]]
+	e depois rode elas `npx sequelize db:migrate`
+16. Crie as seeders. Exemplo de seeders para a tabela users [[timeStamp.users|timeStamp.users]]
 ## Estrutura das pastas e arquivos
