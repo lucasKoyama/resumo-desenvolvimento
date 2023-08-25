@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c630ce709e866fc9",
+  "active": "eccf4a449159d034",
   "lastOpenFiles": [
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",

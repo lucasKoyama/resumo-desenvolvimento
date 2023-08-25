@@ -1,1 +1,10 @@
-{}
+{
+  "execute-code:code-execute-open-manage-executors": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ]
+}
