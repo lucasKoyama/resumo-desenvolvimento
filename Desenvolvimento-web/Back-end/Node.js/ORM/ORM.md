@@ -2,17 +2,16 @@
 ## O que é ORM?
 ORM (Mapeamento Objeto-Relacional) signica mapear objetos os relacionando com tabelas nos bancos de dados relacionais. Em outras palavras é usar linguagem de programação para transformar objetos em linhas em uma tabela de um banco de dados relacional 
 ```js
-/* Modelo de um objeto que simboliza um usuário, em que as chaves (email e password) são os cabec */
+/* Modelo de um "objeto" que simboliza um usuário, em que as chaves (email e password) são os cabeçalhos de uma tabela de usuários, enquanto que os valores (user@gmail.com e senha) são os dados da tabela */
 const objetoUsuario = {
 	email: "user@gmail.com",
 	password: "senha"
 }
 ```
-|Nome|O que faz?|
+
+| email |password|
 |---|---|
-|Migration|Cria as tabelas|
-|Seeders|Alimenta as tabelas|
-|Models|Faz os CRUDs|
+|user@gmail.com|senha|
 ## Passos
 ## Estrutura das pastas e arquivos
 
