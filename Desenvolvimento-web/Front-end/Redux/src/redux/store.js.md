@@ -4,9 +4,12 @@ import thunk from 'redux-thunk';
 import { composeWithDevTools } from '@redux-devtools/extension';
 import rootReducer from './reducers';
 
-const store = createStore(rootReducer, composeWithDevTools(applyMiddleware(thunk)));
+const store = createStore(
+	rootReducer,
+	composeWithDevTools(applyMiddleware(thunk))
+);
 
-if (window.Cypress) {
+if (window.Cypress) { // para rodar com os testes do cypress
   window.store = store;
 }
 
