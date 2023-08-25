@@ -2,7 +2,8 @@
 ## Includes - verifica se existe um item específico no array
 ```jsx
 // Verifica se no array contém algum item e retorna um boolean.
-array.includes(item);
+const arr = [1, 2, 3];
+arr.includes(1);
 ```
 ## Formas de remover item do array
 ```jsx
