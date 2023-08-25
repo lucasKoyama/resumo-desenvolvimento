@@ -43,4 +43,5 @@ const objetoUsuario = {
 	e depois rode elas `npx sequelize db:migrate`
 16. Crie as seeders. Exemplo de seeders para a tabela users [[Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users|timeStamp.users]]
 	e depois rode elas `env $(cat .env) npx sequelize db:seed:all`
+17. Crie as funções da camada service utilizando as funções padrões do sequelize para se comunicar com as models. Exemplo de service dos users
 ## Estrutura das pastas e arquivos
