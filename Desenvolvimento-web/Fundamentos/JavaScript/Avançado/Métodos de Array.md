@@ -41,6 +41,11 @@ A cada iteração a callback do reduce é executada realizando alguma operação
 array.reduce((acumulador, itemAtual) => acumulador + itemAtual, valorInicial);
 ```
 ### find
-Percorre cada item do array procurando por algum que satisfaça a uma condição e o retorna quando encontrado
+**Percorre cada item do array procurando por algum que satisfaça a condição passada a callback e o retorna quando encontrado**, caso não encontre nada retorna **undefined**
+```js
+const arr = ['HTML', 'CSS', 'Javascript'];
+const skillExists = arr.find((item) => item === 'Javascript');
+// Note que o find foi usado para verificar 
+```
 ### filter
 ### sort
