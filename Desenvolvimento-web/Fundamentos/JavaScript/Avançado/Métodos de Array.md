@@ -55,6 +55,17 @@ arr.find((item) => item.skill === 'Javascript');
 ```
 ### some
 Verifica se no array existe algum item que satisfaça a condição da callback, retorna um boolean
+```js
+const carnes = ['frango', 'bacon', 'carne', 'calabresa']
+const pizzas = [
+	"Pizza de bacon",
+	"Pizza de palmito",
+	"Pizza de calabresa",
+	"Pizza de quatro queijos",
+	"Pizza de frango com catupiry"
+];
+carnes.some(carne => pizzas.includes(carne))
+```
 ### filter
 **Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
 ```js
