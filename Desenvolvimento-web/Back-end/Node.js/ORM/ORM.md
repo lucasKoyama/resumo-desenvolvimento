@@ -8,20 +8,31 @@ const objetoUsuario = {
 	password: "senha"
 }
 ```
-
 | email |password|
 |---|---|
 |user@gmail.com|senha|
-
 #### Sequelize umas das libs mais conhecidas de ORM
 |    Nome   |    O que faz?       |
 |    ---    |         ---         |
 | Migration | Cria as tabelas     |
 | Seeders   | Alimenta as tabelas |
 | Models    | Faz os CRUDs        |
-
 ## Passos
+1. **Inicie** o seu backend `npm init -y`
+2. instale o **sequelize** `npm install -E sequelize@6.3.4`
+3. Crie o seu **.env** para guardar as variáveis de ambiente do seu banco
+	```bash
+	MYSQL_USER=root
+	2MYSQL_PASSWORD=senha_mysql
+	3MYSQL_DATABASE=orm_example
+	4MYSQL_HOST=localhost
+	```
+4. Instale o **cli do sequelize** `npm install -D -E sequelize-cli@6.2.0`
+5. Instale sua **linguagem SQL** `npm install -E mysql2@2.1.0`
+6. Entre na pasta **src** `cd src`
+7. Inicie a estrutura do sequelize `npx sequelize-cli init`
+8. Volte para a pasta raiz `cd ..`
+9. Crie o arquivo [[sequelizerc|.sequelizerc]] que vai falar ao sequelize onde está o arquivo de configuração dele
+10. Vá até o arquivo `src/config/config.json` e renomeie o arquivo para [[config.js]] adicionalmente substitua o código dele
+11. Modifique o index.js da model para apontar para o arquivo de config.js ao invés de config.json `const config = require(__dirname + '/../config/config.js')[env];`
 ## Estrutura das pastas e arquivos
-1. criar model
-2. criar migration
-3. 
