@@ -52,19 +52,20 @@ const arr = [
 	{ skill: 'Javascript', subTopics: ['Arrays', 'Hofs'] }
 ];
 arr.find((item) => item.skill === 'Javascript');
+// { skill: 'Javascript', subTopics: ['Arrays', 'Hofs'] }
 ```
 ### some
-Verifica se no array existe algum item que satisfaça a condição da callback, retorna um boolean
+**Verifica** se no array **existe algum item que satisfaça a condição da callback**, retorna um boolean
 ```js
-const carnes = ['frango', 'bacon', 'carne', 'calabresa']
-const pizza = "Pizza de frango com catupiry"
+const carnes = ['frango', 'bacon', 'carne', 'calabresa'];
+const pizza = "Pizza de frango com catupiry";
 
-carnes.some(carne => pizza.includes(carne));
+const temCarne = carnes.some((carne) => pizza.includes(carne)); // true
 ```
-### filter
-**Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
+### every
+Verifica se **todos os itens do array satisfaz a condição da callback**, retorna um boolean
 ```js
-const carnes = ['frango', 'bacon', 'carne', 'calabresa']
+const carnes = ['frango', 'bacon', 'carne', 'calabresa'];
 
 const pizzas = [
 	"Pizza de bacon",
@@ -74,11 +75,26 @@ const pizzas = [
 	"Pizza de frango com catupiry"
 ];
 
-const pizzasVegetarianas = pizzas.filter(pizza => {
-	return !carnes.some(carne => pizza.toLowerCase().includes(carne))
+pizzas.every((pizza) => carnes.some((carne) => pizza.includes(carne));
+```
+### filter
+**Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
+```js
+const carnes = ['frango', 'bacon', 'carne', 'calabresa'];
+
+const pizzas = [
+	"Pizza de bacon",
+	"Pizza de palmito",
+	"Pizza de calabresa",
+	"Pizza de quatro queijos",
+	"Pizza de frango com catupiry"
+];
+
+const pizzasVegetarianas = pizzas.filter((pizza) => {
+	return !carnes.some((carne) => pizza.includes(carne))
 });
 
-console.log(pizzasVegetarianas)
+console.log(pizzasVegetarianas);
 // pizzasVegetarianas = ['Pizza de palmito', 'Pizza de quatro queijos']
 ```
 ### sort
