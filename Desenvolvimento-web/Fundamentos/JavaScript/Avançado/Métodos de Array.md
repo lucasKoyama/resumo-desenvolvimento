@@ -2,8 +2,10 @@
 ## Includes - verifica se existe um item específico no array
 ```jsx
 // Verifica se no array contém algum item e retorna um boolean.
-array.includes(item);
+const arr = ['HTML', 'CSS', 'Javascript'];
+arr.includes('Javascript'); // true, Javascript está incluso na variável arr
 ```
+---
 ## Formas de remover item do array
 ```jsx
 // Retorna o indice que o elemento foi encontrado no array, útil para usar com splice
@@ -18,6 +20,7 @@ array.pop();
 // Remove o primeiro elemento do array e o retorna
 array.shift();
 ```
+---
 ## Higher Order Functions - HOFs
 
 ### forEach
@@ -43,9 +46,13 @@ array.reduce((acumulador, itemAtual) => acumulador + itemAtual, valorInicial);
 ### find
 **Percorre cada item do array procurando por algum que satisfaça a condição passada a callback e o retorna quando encontrado**, caso não encontre nada retorna **undefined**
 ```js
-const arr = ['HTML', 'CSS', 'Javascript'];
-const skillExists = arr.find((item) => item === 'Javascript');
-// Note que o find foi usado para verificar 
+const arr = [
+	{ skill: 'HTML', subTopics: ['Semantico', 'Forms'] },
+	{ skill: 'CSS', subTopics: ['Flexbox', 'Responsividade'] },
+	{ skill: 'Javascript' subTopics: ['Arrays', 'Hofs'] }
+];
+arr.find((item) => item.skill === 'Javascript');
 ```
 ### filter
+**Filtra** o array **retornando um array somente com os itens que satisfaça a condição da callback**
 ### sort
