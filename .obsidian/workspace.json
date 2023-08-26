@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -159,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc84e6cc9721a7e8",
+  "active": "cbae849285a7e4bd",
   "lastOpenFiles": [
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
