@@ -54,11 +54,11 @@ const objetoUsuario = {
 	- **controllers**
 		- [[employee.controller.js]]
 	- **migrations**
-		- [[timeStamp.users]]
+		- [[Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users|timeStamp.users]]
 	- **models**
-		- user.model
+		- [[user.model]]
 	- **seeders**
-		- timeStamps.users
+		- [[Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users|timeStamps.users]]
 	- **services**
-		- employee.service.js
-	- .sequelizerc
+		- [[employee.service.js]]
+	- [[sequelizerc|.sequelizerc]]

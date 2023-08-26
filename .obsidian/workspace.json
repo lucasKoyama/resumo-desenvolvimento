@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md"
               }
             }
           }
@@ -149,14 +149,15 @@
   },
   "active": "cbae849285a7e4bd",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/config/config.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
+    "timeStamps.users.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/config/config.js.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services",
@@ -187,7 +188,6 @@
     "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx",
     "Desenvolvimento-web/Front-end/Redux/src/redux/actions/index.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/index.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/store.js.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
