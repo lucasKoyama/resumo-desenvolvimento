@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md"
+                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "a350ce2dff413a1f",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth",
