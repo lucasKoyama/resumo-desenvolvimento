@@ -50,11 +50,11 @@ const objetoUsuario = {
 - **src**
 	- **auth**
 	- **config**
-		- config.js
+		- [[config.js]]
 	- **controllers**
-		- employee.controller.js
+		- [[employee.controller.js]]
 	- **migrations**
-		- timeStamp.users
+		- [[timeStamp.users]]
 	- **models**
 		- user.model
 	- **seeders**
