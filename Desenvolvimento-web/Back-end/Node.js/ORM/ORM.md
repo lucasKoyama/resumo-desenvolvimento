@@ -50,7 +50,7 @@ const objetoUsuario = {
 ## Estrutura das pastas e arquivos
 - **src**
 	- **auth**
-		- 
+		- [[validateToken.js]]
 	- **config**
 		- [[config.js]]
 	- **controllers**
