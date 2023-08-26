@@ -46,6 +46,7 @@ const objetoUsuario = {
 	e depois rode elas `env $(cat .env) npx sequelize db:seed:all`
 17. Crie as funções da camada service utilizando as funções padrões do sequelize para se comunicar com as models. Exemplo de [[employee.service.js|service dos employees]] com eager e lazy loading
 18. Crie as funções da camada controller. Exemplo de [[employee.controller.js|controller dos employees]] com opção de carregar lazy ou eager loading
+19. 
 ## Estrutura das pastas e arquivos
 - **src**
 	- **auth**
