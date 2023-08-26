@@ -33,6 +33,7 @@ module.exports = {
 	}
 };
 ```
+#### Migration de uma tabela N:N (com as colunas sendo FKs)
 ```js
 'use strict';
 
