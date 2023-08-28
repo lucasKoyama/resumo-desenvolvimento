@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20fb628c95b8ac59",
+            "id": "61124fbcb35ec72f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
-                "mode": "preview",
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+                "file": "Desenvolvimento-web/Front-end/Vite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md"
+                "file": "Desenvolvimento-web/Front-end/Vite.md"
               }
             }
           }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20fb628c95b8ac59",
+  "active": "61124fbcb35ec72f",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
+    "Desenvolvimento-web/Front-end/NextJS.md",
+    "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
+    "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
@@ -186,8 +188,6 @@
     "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
     "Desenvolvimento-web/Front-end/Redux/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
