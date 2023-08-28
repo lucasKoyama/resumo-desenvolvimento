@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Vite.md"
+                "file": "Desenvolvimento-web/Front-end/NextJS.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "61124fbcb35ec72f",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/NextJS.md",
     "Desenvolvimento-web/Front-end/Vite.md",
+    "Desenvolvimento-web/Front-end/NextJS.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
