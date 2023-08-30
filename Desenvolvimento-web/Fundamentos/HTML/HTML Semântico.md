@@ -41,3 +41,5 @@ Conteúdo autocontido para imgs, diagramas, code etc
   <figcaption>Fig1. - Trulli, Puglia, Italy.</figcaption>  
 </figure>
 ```
+![[HTML_semantico_lista.png]]
+[referência](https://www.w3schools.com/html/html5_semantic_elements.asp)

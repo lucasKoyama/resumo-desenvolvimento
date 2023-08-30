@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd505bc4ecf747c",
+        "id": "fab4ce7121fe597f",
         "type": "tabs",
         "children": [
           {
-            "id": "61124fbcb35ec72f",
+            "id": "3aa1b83a84c7e192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,10 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61124fbcb35ec72f",
+  "active": "3aa1b83a84c7e192",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
+    "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico_lista.png",
     "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
+    "Untitled.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico.png",
     "Desenvolvimento-web/Front-end/NextJS.md",
     "Desenvolvimento-web/Front-end/Vite.md",
@@ -188,7 +190,6 @@
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
-    "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
