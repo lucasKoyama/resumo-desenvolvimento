@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md",
+                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md",
+                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md",
+                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md"
+                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "61124fbcb35ec72f",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Front-end/Vite.md",
+    "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico.png",
+    "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Desenvolvimento-web/Front-end/NextJS.md",
+    "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
@@ -186,8 +188,6 @@
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/Redux/src/pages/Login.jsx.md",
-    "Desenvolvimento-web/Front-end/Redux/src/components/Header.jsx.md",
-    "Desenvolvimento-web/Front-end/Redux/src/redux/reducers/user.js.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
