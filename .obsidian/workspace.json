@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md"
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "3aa1b83a84c7e192",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico_lista.png",
-    "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Untitled.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico.png",
     "Desenvolvimento-web/Front-end/NextJS.md",
