@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md"
+                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "3aa1b83a84c7e192",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico_lista.png",
@@ -189,7 +190,6 @@
     "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
