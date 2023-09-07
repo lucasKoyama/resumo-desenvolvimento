@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md"
+                "file": "Desenvolvimento-web/Front-end/React/React.js/React Router.md"
               }
             }
           }
@@ -149,6 +149,14 @@
   },
   "active": "3aa1b83a84c7e192",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/React/React.js/React-Testing-Library-RTL/RTL.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
+    "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
@@ -179,17 +187,9 @@
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models",
     "Desenvolvimento-web/Back-end/Banco-de-dados/Banco de Dados.md",
-    "Banco de dados relacionais.md",
-    "Pasted image 20230825110454.png.md",
     "Pasted image 20230825110454.png",
-    "bancos de dados relacionais.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/Untitled.canvas",
-    "Desenvolvimento-web/Front-end/Redux/Redux.md",
-    "Desenvolvimento-web/Fundamentos/CSS/Flexbox.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM",
-    "Desenvolvimento-web/Fundamentos/CSS/CSS.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Assíncronia.md",
-    "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
