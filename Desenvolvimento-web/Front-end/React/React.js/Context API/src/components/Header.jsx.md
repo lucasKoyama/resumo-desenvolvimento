@@ -10,7 +10,7 @@ function Header() {
 	return (
 		<header>
 			<button onClick={() => theme.toggleTheme()}>
-				{theme.color === 'dark' ? '☀️' : '🌒'}
+					{theme.color === 'dark' ? '☀️' : '🌒'}
 			</button>
 		</header>
 	);
