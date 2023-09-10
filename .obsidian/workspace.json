@@ -11,8 +11,12 @@
             "id": "d083e27c98164168",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md"
+              }
             }
           }
         ],
@@ -141,6 +149,9 @@
   },
   "active": "d083e27c98164168",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Untitled 1.md",
     "Desenvolvimento-web/Fundamentos/CSS/Grid.md",
@@ -166,9 +177,6 @@
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config/config.js.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/middlewares/validateUserCreation.js.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/migrations/timeStamp.users.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/seeders/timeStamp.users.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/middlewares",
     "Desenvolvimento-web/Back-end/Banco-de-dados/SQL & NoSQL.png",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config",
