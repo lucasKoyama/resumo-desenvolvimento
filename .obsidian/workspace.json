@@ -11,8 +11,12 @@
             "id": "2815779eba4f1b62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md"
+              }
             }
           }
         ],
@@ -141,11 +149,11 @@
   },
   "active": "2815779eba4f1b62",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.jsx.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Untitled 1.md",
     "Desenvolvimento-web/Fundamentos/CSS/Grid.md",
