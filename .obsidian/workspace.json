@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
-                "mode": "preview",
+                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md"
+                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md"
               }
             }
           },
@@ -159,13 +159,13 @@
   },
   "active": "2815779eba4f1b62",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.jsx.md",
