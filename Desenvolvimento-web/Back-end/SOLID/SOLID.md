@@ -1,6 +1,6 @@
 [[Back-end]]
 
-- S - 
+- S - Single responsability principle - componentizar / agrupar lógicas 
 - O - 
 - L - 
 - I - 
