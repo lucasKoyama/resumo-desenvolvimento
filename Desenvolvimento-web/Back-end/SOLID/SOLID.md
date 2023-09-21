@@ -2,6 +2,6 @@
 
 - S - Single responsability principle - componentizar / agrupar lógicas 
 - O - Open Closed principle - deixar o código aberto para extender sem modificar o código
-- L - 
+- L - Liskov principle - 
 - I - 
-- D - 
+- D - Dependency inversion principle - 
