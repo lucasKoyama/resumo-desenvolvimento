@@ -1,7 +1,7 @@
 [[Back-end]]
 
 - S - Single responsability principle - componentizar / agrupar lógicas 
-- O - 
+- O - Open Closed principle - deixar o código aberto para extender sem modificar o código
 - L - 
 - I - 
 - D - 
