@@ -11,8 +11,12 @@
             "id": "2815779eba4f1b62",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md"
+              }
+            }
+          },
+          {
+            "id": "3047e5d47c5a5233",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -141,19 +159,19 @@
   },
   "active": "2815779eba4f1b62",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
+    "Desenvolvimento-web/Front-end/Redux/Redux.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
+    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
+    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/App.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/components/Header.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeProvider.jsx.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/src/cotext/ThemeContext.jsx.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React Router.md",
     "Untitled 1.md",
     "Desenvolvimento-web/Fundamentos/CSS/Grid.md",
     "Desenvolvimento-web/Front-end/React/React.js/React-Testing-Library-RTL/RTL.md",
-    "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Functional-Component/React-Functional-Components.md",
-    "Desenvolvimento-web/Front-end/React/React.js/Class-Component/React-Class-Components.md",
-    "Desenvolvimento-web/Front-end/Redux/Redux.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
     "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
