@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2063a6b5aa9379f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "a629a3807e1768fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/MongoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d069a0d501f1de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md",
+                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md",
+                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/NextJS.md"
+                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md"
               }
             }
           },
@@ -157,8 +192,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2815779eba4f1b62",
+  "active": "bc84e6cc9721a7e8",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/MongoDB.md",
+    "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
+    "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB",
     "Desenvolvimento-web/Back-end/Back-end.md",
     "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
@@ -179,14 +217,12 @@
     "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico_lista.png",
-    "Untitled.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico.png",
     "Desenvolvimento-web/Front-end/NextJS.md",
     "Desenvolvimento-web/Front-end/Vite.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/ORM.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/middlewares",
     "Desenvolvimento-web/Back-end/Banco-de-dados/SQL & NoSQL.png",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config",
@@ -199,7 +235,6 @@
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/models",
     "Pasted image 20230825110454.png",
     "Desenvolvimento-web/Back-end/Node.js/ORM/Untitled.canvas",
-    "Desenvolvimento-web/Back-end/Node.js/ORM",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Reduce.canvas"
   ]
 }
