@@ -48,7 +48,7 @@
               "type": "markdown",
               "state": {
                 "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -192,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc84e6cc9721a7e8",
+  "active": "6d069a0d501f1de1",
   "lastOpenFiles": [
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/MongoDB.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
