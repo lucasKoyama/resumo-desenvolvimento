@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
-                "mode": "source",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/SOLID/SOLID.md"
+                "file": "Desenvolvimento-web/Front-end/NextJS.md"
               }
             }
           },
@@ -159,6 +159,8 @@
   },
   "active": "2815779eba4f1b62",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Back-end/Back-end.md",
+    "Desenvolvimento-web/Back-end/SOLID/SOLID.md",
     "Desenvolvimento-web/Front-end/React/React.js/Context API/Context API.md",
     "Desenvolvimento-web/Front-end/React/React.js/React.js.md",
     "Desenvolvimento-web/Front-end/Redux/Redux.md",
@@ -185,8 +187,6 @@
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/auth/validateToken.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/controllers/employee.controller.js.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/services/employee.service.js.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/models/user.model.md",
-    "Desenvolvimento-web/Back-end/Node.js/ORM/src/sequelizerc.md",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/middlewares",
     "Desenvolvimento-web/Back-end/Banco-de-dados/SQL & NoSQL.png",
     "Desenvolvimento-web/Back-end/Node.js/ORM/src/config",
