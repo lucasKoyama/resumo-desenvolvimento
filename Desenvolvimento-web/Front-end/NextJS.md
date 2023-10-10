@@ -7,4 +7,17 @@ Framework [[React.js]] que possibilita:
 1. Tenha o node.js e o npm instalados
 2. Abra o terminal
 3. Crie o projeto `npx create-next-app nome-do-seu-projeto`
-4. 
+
+## Deploy estático
+1. Crie o arquivo `next.config.js` com o seguinte conteúdo:
+	```js
+	/** @type {import('next').NextConfig} */
+	const nextConfig = {
+	  output: 'export',
+	}
+	
+	module.exports = nextConfig
+	```
+2. Rode o comando `npm run build`
+3. De deploy do conteúdo da pasta `out` gerada
+4. Para pre visualizar o build gerado de o comando `npx serve@latest out`
