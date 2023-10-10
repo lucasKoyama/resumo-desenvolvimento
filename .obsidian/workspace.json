@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
                 "mode": "preview",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md"
+                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md"
               }
             }
           },
@@ -194,8 +194,8 @@
   },
   "active": "6d069a0d501f1de1",
   "lastOpenFiles": [
-    "Desenvolvimento-web/Back-end/Eslint.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
+    "Desenvolvimento-web/Back-end/Eslint.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/MongoDB.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB",
     "Desenvolvimento-web/Back-end/Back-end.md",
