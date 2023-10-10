@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "mode": "preview",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md",
+                "file": "Desenvolvimento-web/Front-end/NextJS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Desenvolvimento-web/Front-end/Fontsawesome.md"
+                "file": "Desenvolvimento-web/Front-end/NextJS.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "6d069a0d501f1de1",
   "lastOpenFiles": [
+    "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/connection.md",
     "Desenvolvimento-web/Back-end/Eslint.md",
     "Desenvolvimento-web/Back-end/Banco-de-dados/MongoDB/MongoDB.md",
@@ -214,7 +215,6 @@
     "Desenvolvimento-web/Fundamentos/CSS/Grid.md",
     "Desenvolvimento-web/Front-end/React/React.js/React-Testing-Library-RTL/RTL.md",
     "Desenvolvimento-web/Fundamentos/JavaScript/Avançado/Métodos de Array.md",
-    "Desenvolvimento-web/Front-end/Fontsawesome.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML Semântico.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML.md",
     "Desenvolvimento-web/Fundamentos/HTML/HTML_semantico_lista.png",
